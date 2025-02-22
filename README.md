@@ -1,9 +1,8 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Your Name - Finance Portfolio</title>
+  <title>Salvatore Lizio - Finance Portfolio</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -118,7 +117,7 @@
   </div>
 
   <footer>
-    <p>&copy; 2023 Your Name. All rights reserved.</p>
+    <p>&copy; 2025 Salvatore Lizio. All rights reserved.</p>
   </footer>
 </body>
 </html>
