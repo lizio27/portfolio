@@ -85,11 +85,11 @@
     <section id="projects">
       <h2>Projects</h2>
       <div class="project">
-        <h3>Stock Price Prediction Using Machine Learning</h3>
+        <h3>Black-Scholes-Merton Model for Pricing Options</h3>
         <p>Built a machine learning model to predict stock prices using Python and TensorFlow. <a href="https://github.com/yourusername/stock-price-prediction" target="_blank">View Code</a></p>
       </div>
       <div class="project">
-        <h3>Portfolio Optimization Tool</h3>
+        <h3>DCF Valuation on Delta Airlines</h3>
         <p>Developed a Python script to optimize investment portfolios using the Efficient Frontier. <a href="https://github.com/yourusername/portfolio-optimization" target="_blank">View Code</a></p>
       </div>
     </section>
