@@ -85,7 +85,7 @@
       <h2>Projects</h2>
       <div class="project">
         <h3>Black-Scholes-Merton Model for Pricing Options</h3>
-        <p>Built an Option Pricing model using the BSM (Black-Scholes-Merton) model with Python. <a href="https://github.com/yourusername/stock-price-prediction" target="_blank">View Code</a></p>
+        <p>Built an Option Pricing model using the BSM (Black-Scholes-Merton) model with Python. <a href="BSM model for Option Valuation.ipynb" target="_blank">View Code</a></p>
       </div>
       <div class="project">
         <h3>DCF Valuation on Delta Airlines</h3>
@@ -109,9 +109,9 @@
     <!-- Contact Section -->
     <section id="contact">
       <h2>Contact</h2>
-      <p>Email: <a href="mailto:youremail@example.com">youremail@example.com</a></p>
-      <p>LinkedIn: <a href="https://linkedin.com/in/yourprofile" target="_blank">linkedin.com/in/yourprofile</a></p>
-      <p>GitHub: <a href="https://github.com/yourusername" target="_blank">github.com/yourusername</a></p>
+      <p>Email: <a href="mailto:liziobusiness@outlook.com">liziobusiness@outlook.com</a></p>
+      <p>LinkedIn: <a href="https://www.linkedin.com/in/salvatore-lizio/"</a></p>
+      <p>GitHub: <a href="https://github.com/" target="_blank">github.com/yourusername</a></p>
     </section>
   </div>
 
