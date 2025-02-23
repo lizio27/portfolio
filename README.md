@@ -85,8 +85,7 @@
       <h2>Projects</h2>
       <div class="project">
         <h3>Black-Scholes-Merton Model for Pricing Options</h3>
-        <p>Built an Option Pricing model using the BSM (Black-Scholes-Merton) model with Python <ahref="https://github.com/lizio27/portfolio/blob/262675d7c32a39cdab2a6d08a3c808f28e2b43a4/BSM%20model%20for%20Option%20Valuation.ipynb" target="_blank">View Code</a></p>
-        
+        <p>Built an Option Pricing model using the BSM (Black-Scholes-Merton) model with Python. <a href="https://github.com/lizio27/portfolio/blob/262675d7c32a39cdab2a6d08a3c808f28e2b43a4/BSM%20model%20for%20Option%20Valuation.ipynb" target="_blank">View Code</a></p>
   
 
     <!-- Skills Section -->
@@ -106,8 +105,8 @@
     <section id="contact">
       <h2>Contact</h2>
       <p>Email: <a href="mailto:liziobusiness@outlook.com">liziobusiness@outlook.com</a></p>
-      <p>LinkedIn: <a href="https://www.linkedin.com/in/salvatore-lizio/"</a></p>
-      <p>GitHub: <a href="https://github.com/" target="_blank">github.com/yourusername</a></p>
+      <p>LinkedIn: <a href="https://www.linkedin.com/in/salvatore-lizio/" target="_blank">Salvatore Lizio</a></p>
+      <p>GitHub: <a href="https://github.com/lizio27" target="_blank">github.com/lizio27</a></p>
     </section>
   </div>
 
