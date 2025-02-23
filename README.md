@@ -2,8 +2,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Salvatore Lizio - Finance Portfolio</title>
-  <style>
+   <title>Your Name - Finance Portfolio</title>  <style>
     body {
       font-family: Arial, sans-serif;
       line-height: 1.6;
@@ -64,7 +63,7 @@
 </head>
 <body>
   <header>
-    <h1>Your Name</h1>
+    <h1>Salvatore Lizio</h1>
     <p>Finance Professional & Data Analyst</p>
   </header>
 
@@ -72,7 +71,8 @@
     <!-- About Me Section -->
     <section id="about">
       <h2>About Me</h2>
-      <p>Hello! I'm a finance professional with a passion for data analysis and coding. I specialize in financial modeling, data visualization, and automation using Python and R. I enjoy solving complex financial problems and building tools to streamline processes.</p>
+      <p>Hello! I'm a finance professional with a passion for the Capital Markets. I am currently working in Morgan Stanley as a Credit Risk Analyst.
+         I enjoy solving complex financial problems and building tools to streamline processes.</p>
     </section>
 
     <!-- Resume/CV Section -->
@@ -86,11 +86,11 @@
       <h2>Projects</h2>
       <div class="project">
         <h3>Black-Scholes-Merton Model for Pricing Options</h3>
-        <p>Built a machine learning model to predict stock prices using Python and TensorFlow. <a href="https://github.com/yourusername/stock-price-prediction" target="_blank">View Code</a></p>
+        <p>Built an Option Pricing model using the BSM (Black-Scholes-Merton) model with Python. <a href="https://github.com/yourusername/stock-price-prediction" target="_blank">View Code</a></p>
       </div>
       <div class="project">
         <h3>DCF Valuation on Delta Airlines</h3>
-        <p>Developed a Python script to optimize investment portfolios using the Efficient Frontier. <a href="https://github.com/yourusername/portfolio-optimization" target="_blank">View Code</a></p>
+        <p>Built a DCF model to estimate the Value of Delta Airlines during COVID-19. <a href="https://github.com/yourusername/portfolio-optimization" target="_blank">View Code</a></p>
       </div>
     </section>
 
