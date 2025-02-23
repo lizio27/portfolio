@@ -64,7 +64,7 @@
 <body>
   <header>
     <h1>Salvatore Lizio</h1>
-    <p>Finance Professional & Data Analyst</p>
+    <p>Risk Analyst @Morgan Stanley & CFA Level 2 Candidate</p>
   </header>
 
   <div class="container">
