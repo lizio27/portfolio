@@ -71,14 +71,13 @@
     <!-- About Me Section -->
     <section id="about">
       <h2>About Me</h2>
-      <p>Hello! I'm a finance professional with a passion for the Capital Markets. I am currently working in Morgan Stanley as a Credit Risk Analyst.
-         I enjoy solving complex financial problems and building tools to streamline processes.</p>
+      <p>Hello! I'm a finance professional with an insatiable passion for Markets. I am currently working in Morgan Stanley as a Risk Analyst, where I enjoy solving complex financial problems and building tools to streamline processes. I am a firm believer of the short-term inefficiency of the Stock market, and I like to do my research and exploit opportunities. </p>
     </section>
 
     <!-- Resume/CV Section -->
     <section id="resume">
       <h2>Resume/CV</h2>
-      <p>Download my resume: <a href="path/to/your/resume.pdf" download>Download PDF</a></p>
+      <p>Download my resume: <a href="https://github.com/lizio27/portfolio/blob/main/CV_Salvatore%20Lizio_def.pdf" download>Download PDF</a></p>
     </section>
 
     <!-- Projects Section -->
