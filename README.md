@@ -77,7 +77,7 @@
     <!-- Resume/CV Section -->
     <section id="resume">
       <h2>Resume/CV</h2>
-      <p>Download my resume: <a href="https://github.com/lizio27/portfolio/blob/main/CV_Salvatore%20Lizio_def.pdf" download>Download PDF</a></p>
+      <p>Download my resume: <a href="CV_Salvatore Lizio_def.pdf" download>Download PDF</a></p>
     </section>
 
     <!-- Projects Section -->
