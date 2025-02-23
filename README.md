@@ -85,13 +85,9 @@
       <h2>Projects</h2>
       <div class="project">
         <h3>Black-Scholes-Merton Model for Pricing Options</h3>
-        <p>Built an Option Pricing model using the BSM (Black-Scholes-Merton) model with Python. <a href="BSM model for Option Valuation.ipynb" target="_blank">View Code</a></p>
-      </div>
-      <div class="project">
-        <h3>DCF Valuation on Delta Airlines</h3>
-        <p>Built a DCF model to estimate the Value of Delta Airlines during COVID-19. <a href="https://github.com/yourusername/portfolio-optimization" target="_blank">View Code</a></p>
-      </div>
-    </section>
+        <p>Built an Option Pricing model using the BSM (Black-Scholes-Merton) model with Python <ahref="https://github.com/lizio27/portfolio/blob/262675d7c32a39cdab2a6d08a3c808f28e2b43a4/BSM%20model%20for%20Option%20Valuation.ipynb" target="_blank">View Code</a></p>
+        
+  
 
     <!-- Skills Section -->
     <section id="skills">
