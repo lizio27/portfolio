@@ -113,5 +113,3 @@
   <footer>
     <p>&copy; 2025 Salvatore Lizio. All rights reserved.</p>
   </footer>
-</body>
-</html>
