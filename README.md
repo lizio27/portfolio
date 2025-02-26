@@ -133,11 +133,19 @@
         <section id="projects">
             <h2>Projects</h2>
             <div class="project">
-                <h3>Black-Scholes-Merton Model for Pricing Options</h3>
+                <h3>Black-Scholes-Merton Model for Option Pricing</h3>
                 <p>Built an Option Pricing model using the BSM (Black-Scholes-Merton) model with Python.</p>
                 <a href="https://github.com/lizio27/portfolio/blob/262675d7c32a39cdab2a6d08a3c808f28e2b43a4/BSM%20model%20for%20Option%20Valuation.ipynb" target="_blank" class="btn">View Code</a>
             </div>
+            
+            <div class="project">
+                <h3>Efficient Frontier Portfolio</h3>
+                <p>Developed a tool to optimize investment portfolios using Modern Portfolio Theory and Python.</p>
+                <a href="https://github.com/lizio27/portfolio/blob/a3f1abbc5b3a9b33dd36dffe9d2538d17fa5d9e5/Efficient%20Frontier.ipynb" target="_blank" class="btn">View Code</a>
+            </div>
+            
         </section>
+    
 
         <!-- Skills Section -->
         <section id="skills">
